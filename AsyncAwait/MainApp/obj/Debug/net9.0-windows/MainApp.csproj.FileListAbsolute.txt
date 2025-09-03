@@ -18,3 +18,4 @@ C:\Projects\KYH\NET24\SYSDEV\20250903\AsyncAwait\MainApp\obj\Debug\net9.0-window
 C:\Projects\KYH\NET24\SYSDEV\20250903\AsyncAwait\MainApp\obj\Debug\net9.0-windows\MainApp.pdb
 C:\Projects\KYH\NET24\SYSDEV\20250903\AsyncAwait\MainApp\obj\Debug\net9.0-windows\MainApp.genruntimeconfig.cache
 C:\Projects\KYH\NET24\SYSDEV\20250903\AsyncAwait\MainApp\obj\Debug\net9.0-windows\ref\MainApp.dll
+C:\Projects\KYH\NET24\SYSDEV\20250903\AsyncAwait\MainApp\obj\Debug\net9.0-windows\MainApp.sourcelink.json
