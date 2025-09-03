@@ -1,122 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Projects\\KYH\\NET24\\SYSDEV\\20250903\\gRPC\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{883F2C6A-5C83-4509-AF5C-7D736BFE56A0}|WebApi\\WebApi.csproj|c:\\projects\\kyh\\net24\\sysdev\\20250903\\grpc\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{883F2C6A-5C83-4509-AF5C-7D736BFE56A0}|WebApi\\WebApi.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{883F2C6A-5C83-4509-AF5C-7D736BFE56A0}|WebApi\\WebApi.csproj|c:\\projects\\kyh\\net24\\sysdev\\20250903\\grpc\\webapi\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{883F2C6A-5C83-4509-AF5C-7D736BFE56A0}|WebApi\\WebApi.csproj|solutionrelative:webapi\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{883F2C6A-5C83-4509-AF5C-7D736BFE56A0}|WebApi\\WebApi.csproj|c:\\projects\\kyh\\net24\\sysdev\\20250903\\grpc\\webapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{883F2C6A-5C83-4509-AF5C-7D736BFE56A0}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{883F2C6A-5C83-4509-AF5C-7D736BFE56A0}|WebApi\\WebApi.csproj|c:\\projects\\kyh\\net24\\sysdev\\20250903\\grpc\\webapi\\protos\\user.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{883F2C6A-5C83-4509-AF5C-7D736BFE56A0}|WebApi\\WebApi.csproj|solutionrelative:webapi\\protos\\user.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{883F2C6A-5C83-4509-AF5C-7D736BFE56A0}|WebApi\\WebApi.csproj|c:\\projects\\kyh\\net24\\sysdev\\20250903\\grpc\\webapi\\services\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{883F2C6A-5C83-4509-AF5C-7D736BFE56A0}|WebApi\\WebApi.csproj|solutionrelative:webapi\\services\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6DD3D0BC-2FD9-43E0-82C6-AC4EE6E26A90}|GrpcTestApp\\GrpcTestApp.csproj|c:\\projects\\kyh\\net24\\sysdev\\20250903\\grpc\\grpctestapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DD3D0BC-2FD9-43E0-82C6-AC4EE6E26A90}|GrpcTestApp\\GrpcTestApp.csproj|solutionrelative:grpctestapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 3,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "user.proto",
-              "DocumentMoniker": "C:\\Projects\\KYH\\NET24\\SYSDEV\\20250903\\gRPC\\WebApi\\Protos\\user.proto",
-              "RelativeDocumentMoniker": "WebApi\\Protos\\user.proto",
-              "ToolTip": "C:\\Projects\\KYH\\NET24\\SYSDEV\\20250903\\gRPC\\WebApi\\Protos\\user.proto",
-              "RelativeToolTip": "WebApi\\Protos\\user.proto",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
-              "WhenOpened": "2025-09-03T07:43:47.007Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UserManager.cs",
-              "DocumentMoniker": "C:\\Projects\\KYH\\NET24\\SYSDEV\\20250903\\gRPC\\WebApi\\Services\\UserManager.cs",
-              "RelativeDocumentMoniker": "WebApi\\Services\\UserManager.cs",
-              "ToolTip": "C:\\Projects\\KYH\\NET24\\SYSDEV\\20250903\\gRPC\\WebApi\\Services\\UserManager.cs",
-              "RelativeToolTip": "WebApi\\Services\\UserManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-03T07:33:31.511Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "C:\\Projects\\KYH\\NET24\\SYSDEV\\20250903\\gRPC\\WebApi\\Services\\UserService.cs",
-              "RelativeDocumentMoniker": "WebApi\\Services\\UserService.cs",
-              "ToolTip": "C:\\Projects\\KYH\\NET24\\SYSDEV\\20250903\\gRPC\\WebApi\\Services\\UserService.cs",
-              "RelativeToolTip": "WebApi\\Services\\UserService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-03T07:28:53.01Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Projects\\KYH\\NET24\\SYSDEV\\20250903\\gRPC\\WebApi\\Program.cs",
-              "RelativeDocumentMoniker": "WebApi\\Program.cs",
-              "ToolTip": "C:\\Projects\\KYH\\NET24\\SYSDEV\\20250903\\gRPC\\WebApi\\Program.cs",
-              "RelativeToolTip": "WebApi\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-03T07:26:29.253Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UsersController.cs",
-              "DocumentMoniker": "C:\\Projects\\KYH\\NET24\\SYSDEV\\20250903\\gRPC\\WebApi\\Controllers\\UsersController.cs",
-              "RelativeDocumentMoniker": "WebApi\\Controllers\\UsersController.cs",
-              "ToolTip": "C:\\Projects\\KYH\\NET24\\SYSDEV\\20250903\\gRPC\\WebApi\\Controllers\\UsersController.cs*",
-              "RelativeToolTip": "WebApi\\Controllers\\UsersController.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-03T07:20:35.062Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Projects\\KYH\\NET24\\SYSDEV\\20250903\\gRPC\\GrpcTestApp\\Program.cs",
-              "RelativeDocumentMoniker": "GrpcTestApp\\Program.cs",
-              "ToolTip": "C:\\Projects\\KYH\\NET24\\SYSDEV\\20250903\\gRPC\\GrpcTestApp\\Program.cs",
-              "RelativeToolTip": "GrpcTestApp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-03T07:05:57.04Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }

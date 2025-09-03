@@ -38,3 +38,4 @@ C:\Projects\KYH\NET24\SYSDEV\20250903\gRPC\WebApi\obj\Debug\net9.0\refint\WebApi
 C:\Projects\KYH\NET24\SYSDEV\20250903\gRPC\WebApi\obj\Debug\net9.0\WebApi.pdb
 C:\Projects\KYH\NET24\SYSDEV\20250903\gRPC\WebApi\obj\Debug\net9.0\WebApi.genruntimeconfig.cache
 C:\Projects\KYH\NET24\SYSDEV\20250903\gRPC\WebApi\obj\Debug\net9.0\ref\WebApi.dll
+C:\Projects\KYH\NET24\SYSDEV\20250903\gRPC\WebApi\obj\Debug\net9.0\WebApi.sourcelink.json
