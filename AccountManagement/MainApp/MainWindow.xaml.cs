@@ -15,6 +15,7 @@ public partial class MainWindow : Window
     {
         InitializeComponent();
 
+        Loaded += async (_, _) => await GetUsersAsync();
     }
 
 
@@ -22,6 +23,9 @@ public partial class MainWindow : Window
     {
         using var client = new HttpClient();
         var data = await client.GetFromJsonAsync<ObservableCollection<User>>("https://localhost/api/users");
+
+        Lv_UserList.ItemsSource = data ?? [];
+        
     }
 
 }

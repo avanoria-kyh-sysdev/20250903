@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Projects\\KYH\\NET24\\SYSDEV\\20250903\\AccountManagement\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A9B23D57-30FE-4700-80C8-3F523F16D5D2}|MainApp\\MainApp.csproj|c:\\projects\\kyh\\net24\\sysdev\\20250903\\accountmanagement\\mainapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9B23D57-30FE-4700-80C8-3F523F16D5D2}|MainApp\\MainApp.csproj|solutionrelative:mainapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A9B23D57-30FE-4700-80C8-3F523F16D5D2}|MainApp\\MainApp.csproj|c:\\projects\\kyh\\net24\\sysdev\\20250903\\accountmanagement\\mainapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{A9B23D57-30FE-4700-80C8-3F523F16D5D2}|MainApp\\MainApp.csproj|solutionrelative:mainapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9B23D57-30FE-4700-80C8-3F523F16D5D2}|MainApp\\MainApp.csproj|c:\\projects\\kyh\\net24\\sysdev\\20250903\\accountmanagement\\mainapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9B23D57-30FE-4700-80C8-3F523F16D5D2}|MainApp\\MainApp.csproj|solutionrelative:mainapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CCBBBADC-5F90-4F59-94D9-A4E1CD5E5FD9}|ConsoleApp\\ConsoleApp.csproj|c:\\projects\\kyh\\net24\\sysdev\\20250903\\accountmanagement\\consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
@@ -38,8 +38,7 @@
               "RelativeToolTip": "ConsoleApp\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-03T11:52:15.323Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-03T11:52:15.323Z"
             },
             {
               "$type": "Document",
@@ -51,12 +50,11 @@
               "RelativeToolTip": "MainApp\\Models\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-03T11:38:41.348Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-03T11:38:41.348Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Projects\\KYH\\NET24\\SYSDEV\\20250903\\AccountManagement\\MainApp\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainApp\\MainWindow.xaml",
@@ -68,13 +66,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Projects\\KYH\\NET24\\SYSDEV\\20250903\\AccountManagement\\MainApp\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MainApp\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Projects\\KYH\\NET24\\SYSDEV\\20250903\\AccountManagement\\MainApp\\MainWindow.xaml.cs",
               "RelativeToolTip": "MainApp\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-03T11:28:22.615Z",
               "EditorCaption": ""

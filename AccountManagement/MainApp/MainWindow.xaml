@@ -4,6 +4,7 @@
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:MainApp"
+        xmlns:models="clr-namespace:MainApp.Models"
         mc:Ignorable="d"
         WindowStartupLocation="CenterScreen"
         Title="User Management" Height="500" Width="400">
@@ -15,7 +16,26 @@
             <RowDefinition Height="*" />
         </Grid.RowDefinitions>
 
-        <ListView Grid.Row="1" x:Name="Lv_UserList" />
+        <ListView Grid.Row="1" x:Name="Lv_UserList">
+            <ListView.ItemTemplate>
+                <DataTemplate DataType="models:User">
+                    <Grid Margin="5">
+                        <Grid.RowDefinitions>
+                            <RowDefinition />
+                            <RowDefinition />
+                        </Grid.RowDefinitions>
+
+                        <TextBlock Grid.Row="0">
+                            <Run Text="{Binding FirstName}" />
+                            <Run Text="{Binding LastName}" />
+                        </TextBlock>
+
+                        <TextBlock Grid.Row="1" Text="{Binding Email}" FontSize="10" Foreground="Gray" FontStyle="Italic" />
+                        
+                    </Grid>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
 
     </Grid>
     
