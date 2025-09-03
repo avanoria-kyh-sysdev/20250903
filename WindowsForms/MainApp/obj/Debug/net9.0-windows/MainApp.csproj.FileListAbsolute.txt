@@ -1,0 +1,16 @@
+C:\Projects\KYH\NET24\SYSDEV\20250903\WindowsForms\MainApp\bin\Debug\net9.0-windows\MainApp.exe
+C:\Projects\KYH\NET24\SYSDEV\20250903\WindowsForms\MainApp\bin\Debug\net9.0-windows\MainApp.deps.json
+C:\Projects\KYH\NET24\SYSDEV\20250903\WindowsForms\MainApp\bin\Debug\net9.0-windows\MainApp.runtimeconfig.json
+C:\Projects\KYH\NET24\SYSDEV\20250903\WindowsForms\MainApp\bin\Debug\net9.0-windows\MainApp.dll
+C:\Projects\KYH\NET24\SYSDEV\20250903\WindowsForms\MainApp\bin\Debug\net9.0-windows\MainApp.pdb
+C:\Projects\KYH\NET24\SYSDEV\20250903\WindowsForms\MainApp\obj\Debug\net9.0-windows\MainApp.Form1.resources
+C:\Projects\KYH\NET24\SYSDEV\20250903\WindowsForms\MainApp\obj\Debug\net9.0-windows\MainApp.csproj.GenerateResource.cache
+C:\Projects\KYH\NET24\SYSDEV\20250903\WindowsForms\MainApp\obj\Debug\net9.0-windows\MainApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\KYH\NET24\SYSDEV\20250903\WindowsForms\MainApp\obj\Debug\net9.0-windows\MainApp.AssemblyInfoInputs.cache
+C:\Projects\KYH\NET24\SYSDEV\20250903\WindowsForms\MainApp\obj\Debug\net9.0-windows\MainApp.AssemblyInfo.cs
+C:\Projects\KYH\NET24\SYSDEV\20250903\WindowsForms\MainApp\obj\Debug\net9.0-windows\MainApp.csproj.CoreCompileInputs.cache
+C:\Projects\KYH\NET24\SYSDEV\20250903\WindowsForms\MainApp\obj\Debug\net9.0-windows\MainApp.dll
+C:\Projects\KYH\NET24\SYSDEV\20250903\WindowsForms\MainApp\obj\Debug\net9.0-windows\refint\MainApp.dll
+C:\Projects\KYH\NET24\SYSDEV\20250903\WindowsForms\MainApp\obj\Debug\net9.0-windows\MainApp.pdb
+C:\Projects\KYH\NET24\SYSDEV\20250903\WindowsForms\MainApp\obj\Debug\net9.0-windows\MainApp.genruntimeconfig.cache
+C:\Projects\KYH\NET24\SYSDEV\20250903\WindowsForms\MainApp\obj\Debug\net9.0-windows\ref\MainApp.dll

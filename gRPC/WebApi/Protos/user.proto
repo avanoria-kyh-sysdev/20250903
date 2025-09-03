@@ -1,0 +1,27 @@
+syntax = "proto3";
+
+option csharp_namespace = "WebApi";
+
+package user;
+
+service UserGrpcService {
+	rpc GetUsers (GetUsersRequest) returns (GetUsersResponse);
+}
+
+message User {
+	string id = 1;
+	string first_name = 2;
+	string last_name = 3;
+	string email = 4;
+}
+
+message GetUsersRequest {
+
+}
+
+message GetUsersResponse {
+	bool success = 1;
+	int32 status_code = 2;
+	string error = 3;
+	repeated User users = 4;
+}
